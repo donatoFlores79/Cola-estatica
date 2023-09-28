@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1694498332 source:d:\3sem\seminario estructuras de datos 1\cola estática\empleado.cpp
+	"Empleado.h"
+
+1695103826 d:\3sem\seminario estructuras de datos 1\cola estática\empleado.h
+	<string>
+	<iostream>
+
+1695701298 source:d:\3sem\seminario estructuras de datos 1\cola estática\main.cpp
+	"Cola.h"
+
+1695701320 d:\3sem\seminario estructuras de datos 1\cola estática\cola.h
+	"constancia.h"
+
+1695700400 d:\3sem\seminario estructuras de datos 1\cola estática\constancia.h
+	<iostream>
+	<string>
+
+1695700400 source:d:\3sem\seminario estructuras de datos 1\cola estática\constancia.cpp
+	"constancia.h"
+
+1695701172 source:d:\3sem\seminario estructuras de datos 1\cola estática\cola.cpp
+	"Cola.h"
+
